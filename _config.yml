@@ -23,7 +23,7 @@ repository               : "laurachelidonopoulos/laurachelidonopoulos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/me.jpeg"
+  avatar           : "images/me.jpeg"
   name             : "Laura Chelidonopoulos"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Political Science"
