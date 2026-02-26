@@ -9,7 +9,7 @@ filters: []
 # Dissertation Essays
 
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
-Punished but Not Defeated? Economic Shocks, Challenger Entry, and Incumbent Accountability in Brazil
+Punished but Not Defeated: Economic Shocks and Incumbent Survival in Brazil
 </h2>
 
 <details>
