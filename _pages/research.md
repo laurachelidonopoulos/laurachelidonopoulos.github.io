@@ -36,7 +36,7 @@ Conditional Loyalty: Partisanship and Voter Responses to Corruption
 </h2>
 
 <p style="margin-top: 0.1rem; margin-bottom: 0.6rem;">
-R&R at <em>Electoral Studies</em>
+Conditionally accepted at <em>Electoral Studies</em>
 </p>
 
 <details>
