@@ -6,6 +6,21 @@ author_profile: true
 filters: []
 ---
 
+# Publications
+
+<p style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem;">
+<strong>Chelidonopoulos, Laura</strong>. 2026. "Conditional Loyalty: Partisanship and Voter Responses to Corruption." <em>Electoral Studies</em> 102: 103108. <a href="https://doi.org/10.1016/j.electstud.2026.103108">https://doi.org/10.1016/j.electstud.2026.103108</a>.
+</p>
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+  <p style="font-size: 0.9em; color: #666; margin-top: 0.4rem; margin-bottom: 0.2rem;">
+    To what extent does partisanship bias copartisans' responses to corruption? While existing research shows that partisanship can shield politicians from the consequences of corruption, the conditions under which this varies remain unclear. I argue that partisanship's effect on corruption voting depends on whether corruption is targeted (when the corrupt actor belongs to the voter's preferred party) or systemic (when the electorate perceives corruption to be widespread). These contexts activate different processes: copartisan bias in candidate evaluation and the weakening of partisanship's behavioral shielding effect. Using a survey experiment in Brazil and public opinion data from 17 Latin American countries (2008--2018), I find that copartisans express significantly greater support for a candidate accused of corruption when their party is implicated. However, as systemic corruption increases, they become less likely to support their party when it is in power and more likely to consider opposition alternatives. These findings show that copartisan bias in favor of accused politicians is conditional and can become fragile under certain circumstances.
+  </p>
+</details>
+
+<div style="margin-top: 4rem;"></div>
+
 # Dissertation Papers
 
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
@@ -26,25 +41,6 @@ Who Pays, Who Gains? The Electoral Consequences of Nuclear Plant Closures in Ger
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
 Electricity Blackouts and Electoral Choice under Proportional Representation: Evidence from South Africa
 </h2>
-
-<div style="margin-top: 4rem;"></div>
-
-# Working Papers
-
-<h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
-Conditional Loyalty: Partisanship and Voter Responses to Corruption
-</h2>
-
-<p style="margin-top: 0.1rem; margin-bottom: 0.6rem;">
-Conditionally accepted at <em>Electoral Studies</em>
-</p>
-
-<details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="font-size: 0.9em; color: #666; margin-top: 0.4rem; margin-bottom: 0.2rem;">
-    To what extent does partisanship bias copartisans' responses to corruption? While existing research shows that partisanship can shield politicians from the consequences of corruption, the conditions under which this varies remain unclear. I argue that partisanship's effect on corruption voting depends on whether corruption is targeted (when the corrupt actor belongs to the voter's preferred party) or systemic (when the electorate perceives corruption to be widespread). These contexts activate different processes: copartisan bias in candidate evaluation and the weakening of partisanship's behavioral shielding effect. Using a survey experiment in Brazil and public opinion data from 17 Latin American countries (2008--2018), I find that copartisans express significantly greater support for a candidate accused of corruption when their party is implicated. However, as systemic corruption increases, they become more likely to withdraw support and defect to opposition parties. These findings show that copartisan bias in favor of accused politicians is conditional and can become fragile under certain circumstances.
-  </p>
-</details>
 
 <div style="margin-top: 4rem;"></div>
 
