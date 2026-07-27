@@ -47,7 +47,7 @@ Electricity Blackouts and Electoral Choice under Proportional Representation: Ev
 # Works in Progress
 
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
-Navigating the Divide: How Unattached Voters Respond to Politically Sponsored Protests in Polarized Contexts
+How Early Educational Sorting Shapes Far-Right Voting: Evidence from France
 </h2>
 
 <p style="margin-top: 0.1rem; margin-bottom: 0.6rem;">
