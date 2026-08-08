@@ -57,7 +57,8 @@ How Early Educational Sorting Shapes Far-Right Voting: Evidence from France
 
 <p style="margin-top: 0.1rem; margin-bottom: 0.6rem;">
 with <a href="https://joaopedro-fg.github.io">João P. Freitas Gomes</a>
-</p> and <a href="https://joaoalipiocorrea.github.io">Joao Alipio-Correa</a></p>
+and <a href="https://joaoalipiocorrea.github.io">Joao Alipio-Correa</a>
+</p>
 
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
 Can the Resource Curse be Avoided? Assessing the Impact of a Major Oil Field Discovery on Political Participation
