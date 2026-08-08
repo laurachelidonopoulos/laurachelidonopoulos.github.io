@@ -29,7 +29,7 @@ Vote Fragmentation and Incumbent Survival: How Electoral Rules Shape Accountabil
 
 <p style="margin-top: 0.1rem; margin-bottom: 0.6rem;">
 <span style="font-size: 0.75rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; background-color: #e9dcbe; color: #6b5333; padding: 0.15rem 0.45rem; border-radius: 4px;">Job Market Paper</span>
-&nbsp;&nbsp;<a href="{{ base_path }}/files/Chelidonopoulos_JMP.pdf" style="font-size: 0.9em;">Full paper</a>
+&nbsp;&nbsp;<a href="{{ base_path }}/files/Chelidonopoulos_JMP.pdf" style="font-size: 0.9em;">Manuscript</a>
 </p>
 
 <details>
