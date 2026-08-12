@@ -44,7 +44,7 @@ Voter Coordination after Policy Shocks: Evidence from Germany’s Nuclear Phase-
 </h2>
 
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
-When Do Voters Defect from Dominant Party? Commodity Shocks and Electoral Change in South Africa
+When Do Voters Defect from a Dominant Party? Commodity Shocks and Electoral Change in South Africa
 </h2>
 
 <div style="margin-top: 4rem;"></div>
