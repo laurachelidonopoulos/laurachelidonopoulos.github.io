@@ -40,11 +40,11 @@ Vote Fragmentation and Incumbent Survival: How Electoral Rules Shape Accountabil
 </details>
 
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
-Who Pays, Who Gains? The Electoral Consequences of Nuclear Plant Closures in Germany
+Voter Coordination after Policy Shocks: Evidence from Germany’s Nuclear Phase-Out
 </h2>
 
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
-Electricity Blackouts and Electoral Choice under Proportional Representation: Evidence from South Africa
+When Do Voters Defect from Dominant Party? Commodity Shocks and Electoral Change in South Africa
 </h2>
 
 <div style="margin-top: 4rem;"></div>
@@ -52,7 +52,7 @@ Electricity Blackouts and Electoral Choice under Proportional Representation: Ev
 # Works in Progress
 
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
-How Early Educational Sorting Shapes Far-Right Voting: Evidence from France
+Early Educational Sorting and Far-Right Voting: Evidence from France
 </h2>
 
 <p style="margin-top: 0.1rem; margin-bottom: 0.6rem;">
@@ -61,7 +61,7 @@ and <a href="https://joaoalipiocorrea.github.io">Joao Alipio-Correa</a>
 </p>
 
 <h2 style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem; font-weight: 700;">
-Can the Resource Curse be Avoided? Assessing the Impact of a Major Oil Field Discovery on Political Participation
+The Resource Curse in Democracies: How Exposure to Extraction Shapes Political Participation
 </h2>
 
 <p style="margin-top: 0.1rem; margin-bottom: 0.6rem;">
