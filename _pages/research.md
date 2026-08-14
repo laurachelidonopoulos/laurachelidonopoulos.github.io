@@ -9,7 +9,7 @@ filters: []
 # Publications
 
 <p style="font-size: 1.15rem; margin-top: 1.2rem; margin-bottom: 0.3rem;">
-<strong>Chelidonopoulos, Laura</strong>. 2026. "Conditional loyalty: Partisanship and voter responses to corruption." <em>Electoral Studies</em> 102: 103108. <a href="https://doi.org/10.1016/j.electstud.2026.103108">https://doi.org/10.1016/j.electstud.2026.103108</a>.
+<strong>Chelidonopoulos, Laura</strong>. 2026. "<a href="https://doi.org/10.1016/j.electstud.2026.103108">Conditional loyalty: Partisanship and voter responses to corruption</a>." <em>Electoral Studies</em>.
 </p>
 
 <details>
