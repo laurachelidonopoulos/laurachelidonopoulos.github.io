@@ -64,6 +64,6 @@ and <a href="https://joaoalipiocorrea.github.io">Joao Alipio-Correa</a>
 The Resource Curse in Democracies: How Exposure to Extraction Shapes Political Participation
 </h2>
 
-<p style="margin-top: 0.1rem; margin-bottom: 0.6rem;">
+<!-- <p style="margin-top: 0.1rem; margin-bottom: 0.6rem;">
 with <a href="https://joaoalipiocorrea.github.io">Joao Alipio-Correa</a>
-</p>
+</p> -->
